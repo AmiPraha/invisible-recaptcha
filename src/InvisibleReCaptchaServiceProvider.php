@@ -1,6 +1,6 @@
 <?php
 
-namespace AlbertCht\InvisibleReCaptcha;
+namespace AmiPraha\InvisibleReCaptcha;
 
 use Illuminate\Support\ServiceProvider;
 use Illuminate\View\Compilers\BladeCompiler;
